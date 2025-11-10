@@ -10,7 +10,7 @@ A CLI-based background job queue system built with Node.js. QueueCTL manages bac
 - ✅ **Dead Letter Queue**: Permanently failed jobs are moved to DLQ for manual inspection
 - ✅ **Persistent Storage**: Jobs persist across restarts using JSON file storage
 - ✅ **Configuration Management**: Configurable retry counts and backoff settings
-- ✅ **Graceful Shutdown**: Workers finish current jobs before stopping
+- ✅ **Shutdown**: Workers finish current jobs before stopping
 - ✅ **Job Locking**: Prevents duplicate processing with file-based locking
 
 ## Installation
@@ -369,3 +369,4 @@ Watch the working CLI demo here:
 - Direct link: https://drive.google.com/file/d/1bFiQ3G16X7cr0YhplgKAWAuZUcCjW9aQ/view?usp=sharing
 
 [![Watch the demo](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-blue)](https://drive.google.com/file/d/1bFiQ3G16X7cr0YhplgKAWAuZUcCjW9aQ/view?usp=sharing)
+
