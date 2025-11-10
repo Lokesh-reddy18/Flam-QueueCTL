@@ -17,8 +17,8 @@ A CLI-based background job queue system built with Node.js. QueueCTL manages bac
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd queuectl
+git clone https://github.com/Lokesh-reddy18/Flam-QueueCTL.git
+cd Flam-QueueCTL
 ```
 
 2. Install dependencies:
@@ -369,4 +369,5 @@ Watch the working CLI demo here:
 - Direct link: https://drive.google.com/file/d/1bFiQ3G16X7cr0YhplgKAWAuZUcCjW9aQ/view?usp=sharing
 
 [![Watch the demo](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-blue)](https://drive.google.com/file/d/1bFiQ3G16X7cr0YhplgKAWAuZUcCjW9aQ/view?usp=sharing)
+
 
